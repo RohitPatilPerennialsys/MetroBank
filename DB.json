@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rohit",
+      "services": [
+        {
+          "id": 1,
+          "name": "Current Account",
+          "rating": 3
+        },
+        {
+          "id": 2,
+          "name": "Payroll",
+          "rating": 4
+        },
+        {
+          "id": 3,
+          "name": "Payment",
+          "rating": 2
+        },
+        {
+          "id": 4,
+          "name": "Tax Payment",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "services": [
+        {
+          "id": 1,
+          "name": "Current Account",
+          "rating": null
+        },
+        {
+          "id": 2,
+          "name": "Payroll",
+          "rating": null
+        },
+        {
+          "id": 2,
+          "name": "Tax Payment",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "services": [
+        {
+          "id": 1,
+          "name": "Wallet",
+          "rating": null
+        },
+        {
+          "id": 2,
+          "name": "Payment",
+          "rating": null
+        },
+        {
+          "id": 2,
+          "name": "Payroll",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "name": "Rohit",
+      "date": "1111-11-11",
+      "email": "Rohit@123",
+      "password": "Patil@123",
+      "id": 4
+    },
+    {
+      "name": "rohit",
+      "date": "2022-01-18",
+      "email": "rohit@",
+      "password": "Rohit@123",
+      "id": 5
+    },
+    {
+      "name": "rohit",
+      "date": "2022-01-18",
+      "email": "rohit@",
+      "password": "Rohit@123",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "name": "rohit",
+      "date": "1111-11-11",
+      "email": "Rohit@",
+      "password": "Patil@123",
+      "id": 13
+    },
+    {
+      "name": "rohit patil",
+      "date": "2001-01-16",
+      "email": "rohitpatil@123",
+      "password": "Patil@123",
+      "id": 14
+    },
+    {
+      "name": "rohit",
+      "date": "1111-11-11",
+      "email": "Rohit@123",
+      "password": "Patil@123",
+      "id": 15
+    },
+    {
+      "name": "Rohit Patil",
+      "date": "2001-01-16",
+      "email": "Rohit@123",
+      "password": "Patil@123",
+      "id": 16
+    },
+    {
+      "name": "rohit patil",
+      "date": "1222-06-16",
+      "email": "rohitpatil@123",
+      "password": "rohitPatil1",
+      "id": 17
+    },
+    {
+      "name": "Rahul Laxman Patil",
+      "date": "2014-10-21",
+      "email": "rahul@123",
+      "password": "Patil@123",
+      "id": 18
+    },
+    {
+      "name": "ram",
+      "date": "2001-12-10",
+      "email": "ra@qe",
+      "password": "Patil@111",
+      "id": 19
+    },
+    {
+      "name": "ram",
+      "date": "1111-11-11",
+      "email": "ra@12",
+      "password": "Patil@111",
+      "id": 20
+    },
+    {
+      "name": "Rohit Laxman Patil",
+      "date": "2012-01-16",
+      "email": "rohit@gmail.com",
+      "password": "Pass@123",
+      "id": 21
+    },
+    {
+      "name": "Rohit Laxman Patil",
+      "date": "2012-01-16",
+      "email": "rohit@gmail.com",
+      "password": "Pass@123",
+      "id": 22
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Current Account"
+    },
+    {
+      "id": 2,
+      "name": "Payroll"
+    },
+    {
+      "id": 3,
+      "name": "Payment"
+    },
+    {
+      "id": 4,
+      "name": "Wallet"
+    },
+    {
+      "id": 5,
+      "name": "Investments"
+    },
+    {
+      "id": 6,
+      "name": "Tax Payment"
+    },
+    {
+      "id": 7,
+      "name": "Loans"
+    }
+  ]
+}

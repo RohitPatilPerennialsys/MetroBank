@@ -1,0 +1,121 @@
+body {
+  font-family: open sans;
+  font-style: normal;
+  margin: 0px;
+  padding: 0px;
+}
+.flex {
+  display: flex;
+}
+.left {
+  flex: 50%;
+  height: 920px;
+  background-color: #fe2d17;
+  background-image: url("/images/left.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 50% 100%;
+}
+
+.right {
+  flex: 50%;
+}
+.formContainer {
+  margin: 160px 181px 62px 182px;
+  height: 690px;
+}
+.formContainer h1 {
+  /* Create an Account */
+
+  height: 44px;
+  padding-right: 26px;
+  margin: 0;
+
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  color: #1a1a1a;
+}
+.heading1 {
+  padding-top: 32px;
+  margin: 0px;
+}
+.heading {
+  padding-top: 24px;
+  margin: 0px;
+}
+.heading,
+.heading1 {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  margin: 0px;
+  display: flex;
+  align-items: flex-end;
+  color: #1a1a1a;
+}
+.inputContainer {
+  margin-top: 8px;
+  width: 320px;
+  height: 50px;
+  font-size: large;
+  background: #e8e8e8;
+  border: initial;
+  border-radius: 12px;
+}
+.incorrectInput {
+  margin-top: 8px;
+  width: 320px;
+  height: 50px;
+  font-size: large;
+  background: #e8e8e8;
+  border: 2px solid #d90429;
+  border-radius: 12px;
+}
+.CreateAccountBtn {
+  margin-top: 32px;
+  width: 320px;
+  height: 50px;
+  background: #d90429;
+  box-shadow: 0px 6px 28px 5px rgba(254, 45, 23, 0.3);
+  border-radius: 12px;
+  cursor: pointer;
+}
+.CreateAccountBtn h1 {
+  padding-left: 77px;
+  padding-right: 77px;
+  margin: 0px;
+  padding-top: 14px;
+  padding-bottom: 11px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+  
+}
+h3 {
+  margin-top: 32px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #828282;
+  width: 221px;
+  height: 19px;
+  margin-left: 50px;
+  margin-right: 49px;
+}
+.inputContainer img {
+  padding-left: 285px;
+  padding-top: 16px;
+}
+
+span {
+  font-style: normal;
+  color: #d90429;
+}

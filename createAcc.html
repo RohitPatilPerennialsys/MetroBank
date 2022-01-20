@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="createAccount.css" />
+  </head>
+  <body>
+    <div class="flex">
+      <div class="left"></div>
+      <div class="right">
+        <div class="formContainer">
+          <h1>Create an Account</h1>
+          <form>
+            <label class="heading1">Full Name</label>
+            <input type="text" class="inputContainer" id="name" />
+
+            <label class="heading">Date of Incorporation</label>
+            <input type="date" class="inputContainer" id="date" />
+
+            <label class="heading">Email</label>
+            <input type="email" class="inputContainer" id="email" />
+
+            <label class="heading">Password</label>
+            <input type="password" class="inputContainer" id="pass" />
+
+            <label class="heading">Confirm Password</label>
+            <input type="password" class="inputContainer" id="pass1" />
+
+            <div class="CreateAccountBtn" id="submit">
+              <h1>Create an Account</h1>
+            </div>
+            <h3>Already have an account?<span>Login</span></h3>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="/createAcc.js"></script>
+  </body>
+</html>
